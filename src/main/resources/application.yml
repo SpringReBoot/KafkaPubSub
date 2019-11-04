@@ -1,0 +1,10 @@
+
+springreboot:
+  pubsub:
+    kafka:
+      topic: pubsub
+      consumer:
+        group:
+          id: consumer.group.1
+          
+
